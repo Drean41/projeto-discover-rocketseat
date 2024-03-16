@@ -2,7 +2,7 @@
 
 Um linktree para reunir minhas redes socias
 
-[Para visualizar o projeto com github pages](https://drean41.github.io/linktree/)
+[Para visualizar o projeto com github pages](https://drean41.github.io/devlinks/)
 
 ### Linguagens e Ferramentas
 
